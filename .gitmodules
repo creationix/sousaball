@@ -1,0 +1,8 @@
+[submodule "modules/js-git"]
+	url = git@github.com:creationix/js-git.git
+	ref = refs/heads/master
+	path = modules/js-git
+[submodule "filters"]
+	url = git@github.com:creationix/my-filters.git
+	ref = refs/heads/master
+	path = filters
