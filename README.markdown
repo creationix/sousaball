@@ -2,6 +2,13 @@
 
 SousaBall is an experiment into social networking using JavaScript and the canvas tag.
 
+**UPDATE**  This README is a few years out of date.  I'm currently updating the code to run on top of my new tedit/js-git platform.
+
+What follows is the original README from before I even had a github account.
+
+-----------------------------------------------
+
+
 A live server it hosted at <http://creationix.com:7777/>
 
 ## Technical Background
